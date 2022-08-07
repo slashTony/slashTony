@@ -1,6 +1,6 @@
 👋 Hi, I’m @slashTony
 <br>
-I love coding and writing programs from zero. All I need is the idea of project!
+I love coding and writing programs from zero.
 
 <!---
 slashTony/slashTony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
